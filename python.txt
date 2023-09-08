@@ -1,0 +1,7 @@
+1,FormalSuit,Normall,10,$50.0
+2,CopCostume,madmaxx,30,$15.0
+3,PopCostume,Pappa_s,17,$18.0
+4,SpyCostume,Captain,21,$24.0
+5,BatCostume,Wonder_,25,$18.0
+6,SupCostume,B_Adam_,17,$30.0
+7,BubCostume,Hawkeye,70,$30.0
